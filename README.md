@@ -2,3 +2,9 @@
 this is my 4th repo on date 31st augest
 <br>
 author:Ritesh gupta
+<br>
+some command 
+<br>
+1-git add <--file name-->
+2-git commit -m "message"
+3-git push origin main for connecting local to git
