@@ -12,4 +12,4 @@ some command
 <br>
 1-cd ..to come out of folder 2-mkdir (folde name) for new folder
 <br>
-3-
+3-cd command for chhosing any file
